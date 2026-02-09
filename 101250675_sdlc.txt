@@ -1,0 +1,5 @@
+Having multiple branches is crucial in a group effort because we can each have our
+own virtual environment to work in, while also pushing our individual code
+to a culminative repository.
+
+It also helps maintain the integrity of the main branch.
