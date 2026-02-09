@@ -1,0 +1,4 @@
+COMP 2156 DevOps is teaching me how to add, commit (with message), and push code from my Terminal onto 
+GitHub's repository. Having multiple branches is crucial in a group effort because we can each have our
+own virtual environment but at the end of the day our work gets pushed to the same repository. It also
+helps maintain the intergrity of the main branch.
