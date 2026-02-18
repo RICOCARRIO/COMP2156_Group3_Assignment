@@ -4,3 +4,7 @@ Program Overview:
 I am currently enrolled in the Computer Systems Technician program at George Brown College. 
 The program focuses on networking fundamentals, Linux administration, Windows Server management, and virtualization technologies.
 Through practical lab exercises, I have gained hands-on experience configuring virtual machines and troubleshooting system issues.
+Campus Resources:
+George Brown College provides access to modern computer labs and technical learning spaces.
+Students can use tutoring services and academic workshops to strengthen their understanding.
+The college also provides career services that assist with resume building and interview preparation.
