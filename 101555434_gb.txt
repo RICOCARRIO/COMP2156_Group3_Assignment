@@ -1,0 +1,14 @@
+George Brown College is a well-known public college located in Toronto, Canada. It offers a wide range of diploma and degree programs, including technical and computer-related fields. I am currently enrolled in the Computer Systems Technician program, where I am learning about networking, operating systems, hardware, and cybersecurity. The program provides hands-on lab experience that helps me develop practical skills such as configuring servers, troubleshooting network issues, and managing computer systems. The college has modern campuses like Casa Loma and St. James, equipped with advanced labs and learning facilities. George Brown College also prepares students for industry certifications and future IT careers. Studying here is helping me build a strong foundation for my professional growth in the technology field.
+
+Program Overview:
+I am currently enrolled in the Computer Systems Technician program at George Brown College. 
+The program focuses on networking fundamentals, Linux administration, Windows Server management, and virtualization technologies.
+Through practical lab exercises, I have gained hands-on experience configuring virtual machines and troubleshooting system issues.
+Campus Resources:
+George Brown College provides access to modern computer labs and technical learning spaces.
+Students can use tutoring services and academic workshops to strengthen their understanding.
+The college also provides career services that assist with resume building and interview preparation.
+Personal Growth:
+Studying in Toronto gives exposure to industry events and networking opportunities.
+The learning environment encourages teamwork and collaboration among students.
+My goal after graduation is to pursue a career in system administration or DevOps engineering.

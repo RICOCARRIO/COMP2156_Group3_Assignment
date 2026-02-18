@@ -1,0 +1,16 @@
+COMP2156 is a DevOps course offered at George Brown College for Computer Systems Technician students. This course teaches the fundamentals of DevOps practices and system administration automation. In COMP2156, we learn how to use Git and GitHub for version control and collaboration. We also work with Continuous Integration and Continuous Deployment (CI/CD) tools such as GitHub Actions. The course focuses on automation, scripting, and managing infrastructure efficiently. Students create repositories, manage branches, and configure workflows for automated builds and testing. It helps us understand how development and operations teams work together. Through hands-on labs and projects, we gain practical experience in modern DevOps tools and workflows. This course is important for building skills required in today’s IT and cloud-based environments.
+
+Understanding DevOps:
+DevOps is a methodology that combines software development and IT operations.
+It promotes collaboration between teams to improve productivity and delivery speed.
+Automation and continuous feedback are key principles of DevOps practices.
+
+Continuous Integration:
+Continuous Integration (CI) ensures that code changes are automatically tested after each commit.
+CI tools help detect errors early in the development cycle.
+GitHub Actions is commonly used to automate builds and testing workflows.
+
+Version Control and Branching:
+Git allows developers to create branches for separate features or fixes.
+Pull requests help teams review and validate changes before merging.
+This process ensures stability in the main branch of the repository.
