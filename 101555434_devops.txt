@@ -9,3 +9,8 @@ Continuous Integration:
 Continuous Integration (CI) ensures that code changes are automatically tested after each commit.
 CI tools help detect errors early in the development cycle.
 GitHub Actions is commonly used to automate builds and testing workflows.
+
+Version Control and Branching:
+Git allows developers to create branches for separate features or fixes.
+Pull requests help teams review and validate changes before merging.
+This process ensures stability in the main branch of the repository.
