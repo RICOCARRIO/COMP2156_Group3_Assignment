@@ -4,3 +4,8 @@ DevOps in SDLC:
 DevOps plays an important role in every stage of the Software Development Life Cycle.
 During planning, it ensures clear communication between teams.
 During development, version control improves collaboration and code management.
+
+Testing and Deployment:
+Automation improves testing efficiency and reduces manual errors.
+Continuous deployment allows faster and safer releases.
+Monitoring systems help identify issues after deployment.
