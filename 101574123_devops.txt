@@ -1,0 +1,9 @@
+DevOps Course
+
+DevOps combines software development and IT operations. It helps teams release software faster and more reliably.
+
+In DevOps we learn about Git, branching, collaboration and automation. CI/CD pipelines automatically test and deploy code.
+
+It also makes it easier to work as a team because everyone follows the same steps.
+
+This helps reduce errors and makes teamwork smoother

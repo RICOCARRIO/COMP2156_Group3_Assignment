@@ -1,0 +1,11 @@
+DevOps in SDLC
+
+DevOps improves the Software Development Life Cycle by allowing continuous testing and deployment.
+
+Instead of waiting until the end, code is tested during development which reduces bugs.
+
+Automation and monitoring keep systems stable after release.
+
+For example, a small update can be released quickly instead of waiting weeks.
+
+Overall, it helps software get delivered faster without as many problems.
