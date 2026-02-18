@@ -6,4 +6,4 @@ In DevOps we learn about Git, branching, collaboration and automation. CI/CD pip
 
 It also makes it easier to work as a team because everyone follows the same steps.
 
-This reduces errors and improves teamwork.
+This helps reduce errors and makes teamwork smoother
