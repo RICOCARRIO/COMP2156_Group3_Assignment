@@ -15,6 +15,7 @@ This repository contains the Group 3 submission for COMP2156.
 Members
 
 \- Name: Aidan Bissessar | Student ID: 101574213 | Branch: 101574213-AidanBissessar
+Andrew Jeon | 101250675
 
 
 
