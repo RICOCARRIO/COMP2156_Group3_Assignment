@@ -5,3 +5,6 @@ Lab: Online Wednesday 4PM-6PM
 
 This course is teaching me how to add, commit (with message), and push code from my Terminal onto 
 GitHub's repository.
+
+The Mid Term is online and will be taking place on Wednesday February 2026, 6:00pm
+It will be worth 20% of the total grade.
