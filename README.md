@@ -1,24 +1,6 @@
-# COMP2156 Group3 Assignment
+\# 🚀 COMP2156 — Group 3  
 
-
-
-\# COMP2156 Group 3 — DevOps Group Assignment
-
-
-
-\## :scroll: Overview
-
-This repository contains the Group 3 submission for \*\*COMP2156 (DevOps)\*\*.
-
-It demonstrates collaborative Git workflow using:
-
-\- Branching per member
-
-\- Frequent commits
-
-\- Pull requests \& merges
-
-\- CI integration (GitHub Actions)
+\## DevOps Group Assignment 1
 
 
 
@@ -26,15 +8,43 @@ It demonstrates collaborative Git workflow using:
 
 
 
-\## :busts\_in\_silhouette: Group Members
+\## 📌 Overview
+
+This repository contains the \*\*Group 3 submission\*\* for \*\*COMP2156 (DevOps)\*\*.
 
 
+
+It demonstrates collaborative Git workflow using:
+
+
+
+\- 🔀 Branching per member  
+
+\- 📝 Frequent commits (10+ per member)  
+
+\- 🔄 Pull requests \& merges  
+
+\- ⚙️ CI integration (GitHub Actions)
+
+
+
+---
+
+
+
+\## 👥 Group Members
+
+
+
+| Name | Student ID |
+
+|------|------------|
 
 | Rico Carrio | 101250675 |
 
 | Aidan Bissessar | 101574213 |
 
-| Andrew Jeon | 101250675 | 
+| Andrew Jeon | 101250675 |
 
 | Vanshpreet Singh | 101555434 |
 
@@ -44,35 +54,19 @@ It demonstrates collaborative Git workflow using:
 
 
 
-\## :file\_folder: Files Created (per member)
-
-Each member creates 3 text files:
-
-\- `StudentID\_gb.txt` — brief info about George Brown College
-
-\- `StudentID\_devops.txt` — brief summary of DevOps / course concepts
-
-\- `StudentID\_sdlc.txt` — how DevOps supports the SDLC
+\## 📂 Files Created (Per Member)
 
 
 
----
+Each member creates three text files:
 
 
 
-\## :writing\_hand: How We Worked (Workflow Summary)
+\- `StudentID\_gb.txt` — brief info about George Brown College  
 
-1\. Create a personal branch (`STUDENTID-Name`)
+\- `StudentID\_devops.txt` — summary of DevOps concepts  
 
-2\. Add required files + commit frequently (10+ commits per member)
-
-3\. Push branch to GitHub
-
-4\. Open Pull Request into `main`
-
-5\. Merge after review
-
-6\. Pull latest changes locally and resolve any conflicts
+\- `StudentID\_sdlc.txt` — how DevOps supports the SDLC  
 
 
 
@@ -80,11 +74,33 @@ Each member creates 3 text files:
 
 
 
-\## CI / GitHub Actions
+\## 🛠 Workflow Summary
 
-GitHub Actions is used as a simple CI check for repository structure and required files.
+
+
+1\. Create personal branch  
+
+2\. Add required files  
+
+3\. Make 10+ commits  
+
+4\. Push branch  
+
+5\. Open Pull Request  
+
+6\. Merge into `main`  
+
+7\. Pull latest changes locally  
 
 
 
 ---
+
+
+
+\## 🌐 Repository
+
+
+
+Public GitHub Repository:  https://github.com/RICOCARRIO/COMP2156\_Group3\_Assignment
 
