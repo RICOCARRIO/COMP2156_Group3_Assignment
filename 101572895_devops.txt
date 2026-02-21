@@ -1,0 +1,1 @@
+COMP 2156 DevOps course teaches version control, CI/CD, GitHub Actions, and collaboration in software development.

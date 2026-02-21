@@ -1,0 +1,1 @@
+Learning DevOps is important in SDLC because it improves automation, testing, deployment speed, and team collaboration.
