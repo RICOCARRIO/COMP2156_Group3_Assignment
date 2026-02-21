@@ -1,0 +1,1 @@
+COMP2156 is a course that teaches students Devops for system administration. In COMP2156 Students will learn industry standards for protocols, procedures and practices.    
