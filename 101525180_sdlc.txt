@@ -1,0 +1,2 @@
+Devops is a set of practices which produces a culture with the purpose of increasing organization productivity increase software releases and improve collaboration amongst teams. With knowledge of software development life cycle SDLC the devops engineer can use knowledge of each stage of the lifecycle and create more productive work.       
+
